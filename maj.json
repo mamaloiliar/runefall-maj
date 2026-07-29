@@ -1,7 +1,7 @@
 {
-	"version": "0.14.0",
+	"version": "0.15.0",
 	"noyau": 2,
 	"pck": "runefall.pck",
-	"taille": 751840,
-	"sha256": "09dce307dd2a94d6441741183ea66d833be9126e677f8679aac1b8c47ef151d8"
+	"taille": 1073120,
+	"sha256": "7b65383da94589137811a774afeb673849410390619d6b762fb9879f80f92e11"
 }
